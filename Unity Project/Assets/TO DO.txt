@@ -1,0 +1,5 @@
+-DMGBar.cs: Fix Coroutine
+-Sounds
+-Display tool ui in different color depending on buff
+-Random skillcheck pos
+-Skillcheck only one iterration
